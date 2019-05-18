@@ -1,0 +1,15 @@
+body {
+ color: white;
+ font-family: Sans-serif;
+ background-color: brown;
+}
+
+article {
+ background-color: white;
+ border: 1px solid black;
+ color: black;
+ margin: .5em;
+ padding: 1em;
+ width: 50%;
+}
+ 
